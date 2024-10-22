@@ -1,0 +1,8 @@
+Merge branch 'main' of https://github.com/Agnes-milia/library_24_a
+
+# Conflicts:
+#	konyvtar/app/Http/Controllers/Auth/AuthenticatedSessionController.php
+#	konyvtar/app/Http/Controllers/Auth/RegisteredUserController.php
+#	konyvtar/app/Http/Middleware/Admin.php
+#	konyvtar/database/migrations/0001_01_01_000000_create_users_table.php
+#	konyvtar/routes/api.php

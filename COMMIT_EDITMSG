@@ -1,0 +1,40 @@
+authentikáció pipa
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   konyvtar/app/Http/Controllers/Auth/AuthenticatedSessionController.php
+#	new file:   konyvtar/app/Http/Controllers/Auth/EmailVerificationNotificationController.php
+#	new file:   konyvtar/app/Http/Controllers/Auth/NewPasswordController.php
+#	new file:   konyvtar/app/Http/Controllers/Auth/PasswordResetLinkController.php
+#	new file:   konyvtar/app/Http/Controllers/Auth/RegisteredUserController.php
+#	new file:   konyvtar/app/Http/Controllers/Auth/VerifyEmailController.php
+#	new file:   konyvtar/app/Http/Middleware/Admin.php
+#	new file:   konyvtar/app/Http/Middleware/EnsureEmailIsVerified.php
+#	new file:   konyvtar/app/Http/Requests/Auth/LoginRequest.php
+#	modified:   konyvtar/app/Models/User.php
+#	modified:   konyvtar/app/Providers/AppServiceProvider.php
+#	modified:   konyvtar/bootstrap/app.php
+#	modified:   konyvtar/composer.json
+#	modified:   konyvtar/composer.lock
+#	new file:   konyvtar/config/cors.php
+#	modified:   konyvtar/config/sanctum.php
+#	modified:   konyvtar/database/migrations/0001_01_01_000000_create_users_table.php
+#	deleted:    konyvtar/package.json
+#	deleted:    konyvtar/resources/css/app.css
+#	deleted:    konyvtar/resources/js/app.js
+#	deleted:    konyvtar/resources/js/bootstrap.js
+#	new file:   konyvtar/resources/views/.gitkeep
+#	deleted:    konyvtar/resources/views/welcome.blade.php
+#	modified:   konyvtar/routes/api.php
+#	new file:   konyvtar/routes/auth.php
+#	modified:   konyvtar/routes/web.php
+#	new file:   konyvtar/tests/Feature/Auth/AuthenticationTest.php
+#	new file:   konyvtar/tests/Feature/Auth/EmailVerificationTest.php
+#	new file:   konyvtar/tests/Feature/Auth/PasswordResetTest.php
+#	new file:   konyvtar/tests/Feature/Auth/RegistrationTest.php
+#	deleted:    konyvtar/vite.config.js
+#
